@@ -1,0 +1,24 @@
+{
+  "commit": "99f8475ce5abdca38235ce78350689c54221f403",
+  "generated": "Sun, 06 Oct 2024 08:54:40 GMT",
+  "metadata": [
+    {
+      "__outstatic": {
+        "commit": "dad4313cfd697bfa03585bae414c0d880e2b19b7",
+        "hash": "897216271",
+        "path": "outstatic/content/blogs/first-blog.md"
+      },
+      "author": {
+        "name": "",
+        "picture": "https://avatars.githubusercontent.com/u/183966171?v=4"
+      },
+      "collection": "blogs",
+      "coverImage": "",
+      "description": "",
+      "publishedAt": "2024-10-06T09:27:21.286Z",
+      "slug": "first-blog",
+      "status": "published",
+      "title": "First blog"
+    }
+  ]
+}
